@@ -1,0 +1,15 @@
+{
+  "name": "personal-info-logger-js",
+  "version": "1.0.0",
+  "description": "JS App: 1. Personal Info Logger 2. App Predictor (2022) 3. Campus Cup App (2021)  Explore using `index.html`. Replace placeholders.  ---  **Run:** 1. Open `index.html`. 2. Check console for logs.  **Note:** Ensure a suitable JS environment.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
